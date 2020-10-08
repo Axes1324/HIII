@@ -85,3 +85,4 @@ def start():
     speak('Say Something')
     admin()
 
+start()
